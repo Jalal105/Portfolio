@@ -1,8 +1,8 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { projects } from "../../constants";
 
 const Work = () => {
-  const [selectedProject, setSelectedProject] = useState(null);
+const [selectedProject, setSelectedProject] = useState(null);
 
   const handleOpenModal = (project) => {
     setSelectedProject(project);
