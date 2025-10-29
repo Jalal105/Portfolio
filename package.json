@@ -38,13 +38,13 @@
   "main": "eslint.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codingmastr/Tarun-s-Portfolio.git"
+    "url": "git+https://github.com/Jalal105/JALAL-S-PORTFOLIO.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codingmastr/Tarun-s-Portfolio/issues"
+    "url": "https://github.com/codingmastr/JALAL-S-PORTFOLIO/issues"
   },
-  "homepage": "https://github.com/codingmastr/Tarun-s-Portfolio#readme"
+  "homepage": "https://github.com/Jalal105/JALAL-S-PORTFOLIO#readme"
 }

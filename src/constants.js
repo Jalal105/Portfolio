@@ -50,7 +50,7 @@ import movierecLogo from './assets/work_logo/movie_rec.png';
 import addtasklogo from './assets/work_logo/Add-task-app.png';
 import npmLogo from './assets/work_logo/npm.png';
 import webverLogo from './assets/work_logo/TIC-TAC-TOE-LOGO.png';
-import insectcatchlogo from './assets/work_logo/insect-catch-pic.png';
+import insectcatchlogo from './assets/work_logo/Insect-catch-pic.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import dadjokesLogo from './assets/work_logo/dad-jokes_logo.png';
 
